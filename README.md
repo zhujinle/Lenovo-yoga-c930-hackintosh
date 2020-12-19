@@ -1,15 +1,15 @@
 # Lenovo-yoga-c930-hackintosh
 整合了几位的EFI，本人正在研究，不是很懂，看到每人发就先发出来了
 
- C930 (不是yoga book) 黑苹果EFI
- #CPU i5 - 8250U
- ##GPU UHD620
- #RAM 16G DDR4
- #SSD Intel 660P 512G
- #网卡为自带的 9260AC
- #系统为 Mojave
+C930 (不是yoga book) 黑苹果EFI
+#CPU i5 - 8250U
+##GPU UHD620
+#RAM 16G DDR4
+#SSD Intel 660P 512G
+#网卡为自带的 9260AC
+#系统为 Mojave
 
- ##已解决
+##已解决
  ·触摸板、触屏、Intel无线网卡正常驱动，开关机正常
  ·显卡正常使用（但是好像显存数量有问题）
  ·声音正常，内建，无法驱动低音炮
